@@ -1,6 +1,6 @@
 {
   "name": "@alekic/json-rpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementation of JSON-RPC 2.0 in Node.js.",
   "main": "lib/index.js",
   "scripts": {
