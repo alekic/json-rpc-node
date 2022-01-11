@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alekic/node-json-rpc.git"
+    "url": "git+https://github.com/alekic/json-rpc-node.git"
   },
   "keywords": [
     "json",
@@ -21,9 +21,9 @@
   "author": "Aleksandar Lekić",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alekic/node-json-rpc/issues"
+    "url": "https://github.com/alekic/json-rpc-node/issues"
   },
-  "homepage": "https://github.com/alekic/node-json-rpc#readme",
+  "homepage": "https://github.com/alekic/json-rpc-node#readme",
   "devDependencies": {
     "chai": "^4.3.4",
     "eslint": "^8.6.0",
